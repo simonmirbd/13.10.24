@@ -141,11 +141,11 @@ http://cdn.troya.one:80/ch655/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iJEb7
 http://cdn.troya.one:80/ch1507/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iKxlnGEonQpvyEA5oeUqVn-jnW73etJzOqJfYLyI_XH-
 #EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1893.png, Sex View Gay
 http://cdn.troya.one:80/ch1893/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iEh9I4fv-Fh7dhi3VhOqmPQ1JoxKEiPk1Nsx-De5E8DK
-#EXTINF:0,  tvg-id=\"bcu-charm\" parent-code=\"1234\" tvg-logo=\"http://troya.one/images/chIcons/1546.png\" timeshift=\"3\", BCU Charm HD
+#EXTINF:1  tvg-logo=http://troya.one/images/chIcons/1546.png, BCU Charm HD
 http://cdn.troya.one:80/ch1546/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iK6YNlH_7I7Xw9xF1NXl9XRwGc6YRDZnlU1DvveaPv37
-#EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1756.png\" timeshift=\"3\", Liberty Эротика FHD
+#EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1756.png, Liberty Эротика FHD
 http://cdn.troya.one:80/ch1756/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iHQd_XB-3R-7INCv8U6tEzzrneT6zfZExz46sVd503tI
-#EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1302.png\" timeshift=\"6\", Yosso TV Sexy
+#EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1302.png, Yosso TV Sexy
 http://cdn.troya.one:80/ch1302/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iPO3m8EkPq6Gg1h-2203qcN8Q_iGzDVlC7WQjeiXl8jm
 #EXTINF:1 tvg-logo=http://troya.one/images/chIcons/1987.png, Sky High Sex VR
 http://cdn.troya.one:80/ch1987/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iLJycwmgvL5O0dzpBiqGgXcWpPWKgSHAONNF4jaO--1f
