@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0, tvg-logo=\"http://troya.one/images/chIcons/49.png\" , Русская ночь
+#EXTINF:0, "tvg-logo=\"http://troya.one/images/chIcons/49.png\" , Русская ночь
 http://cdn.troya.one:80/ch049/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iGh0vM5oCPL2hwWg2vvIDkcz8Wa8ebDg4KXXv7laED1F
 #EXTINF:0,  tvg-id=\"не указан\" parent-code=\"1234\" tvg-logo=\"http://troya.one/images/chIcons/50.png\" timeshift=\"0\", Playboy
 http://cdn.troya.one:80/ch050/mono.m3u8?token=rl_aadam.UdI0zA87jcz080oIulX2iCPtXVQopSB-8No9s2tESTbuOkJDY7zwAisYWTB_BCMx
