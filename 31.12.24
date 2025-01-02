@@ -1,5 +1,5 @@
 #EXTM3U 
-#EXTINF:0, tvg-logo=\"http://epg.cdntv.online/img/2016.png\" catchup=\"shift\" catchup-days=\"3\" timeshift=\"3\" group-title=\"Взрослые\", LIBERTY Эротика
+#EXTINF:0, tvg-logo=\"http://epg.cdntv.online/img/2016.png\" LIBERTY Эротика
 https://cdntv.online/high/vcbkpd63uh/2016.m3u8
 #EXTINF:0, tvg-logo=\"http://epg.cdntv.online/img/723.png\" group-title=\"Взрослые\", Babes TV
 https://cdntv.online/high/vcbkpd63uh/723.m3u8
