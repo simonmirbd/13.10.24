@@ -1,221 +1,123 @@
 #EXTM3U 
-#EXTINF:0, tvg-logo="http:epg.cdntv.online/img/2016.png", LIBERTY Эротика
+#EXTINF:0, LIBERTY Эротика 
 https://cdntv.online/high/vcbkpd63uh/2016.m3u8
-#EXTINF:0, tvg-logo=\"http://epg.cdntv.online/img/723.png\" group-title=\"Взрослые\", Babes TV
+#EXTINF:0, Babes TV
 https://cdntv.online/high/vcbkpd63uh/723.m3u8
-#EXTINF:0 tvg-id=\"726\" tvg-logo=\"http://epg.cdntv.online/img/726.png\" group-title=\"Взрослые\", Русская ночь
-#EXTGRP:Взрослые
+#EXTINF:0,Русская ночь
 https://cdntv.online/high/vcbkpd63uh/726.m3u8
-#EXTINF:0 tvg-id=\"730\" tvg-logo=\"http://epg.cdntv.online/img/730.png\" group-title=\"Взрослые\", Anal
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/730.m3u8
-#EXTINF:0 tvg-id=\"731\" tvg-logo=\"http://epg.cdntv.online/img/731.png\" group-title=\"Взрослые\", Big Ass
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/731.m3u8
-#EXTINF:0 tvg-id=\"732\" tvg-logo=\"http://epg.cdntv.online/img/732.png\" group-title=\"Взрослые\", Big Dick
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/732.m3u8
-#EXTINF:0 tvg-id=\"733\" tvg-logo=\"http://epg.cdntv.online/img/733.png\" group-title=\"Взрослые\", Big Tits
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/733.m3u8
-#EXTINF:0 tvg-id=\"734\" tvg-logo=\"http://epg.cdntv.online/img/734.png\" group-title=\"Взрослые\", Cuckold HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/734.m3u8
-#EXTINF:0 tvg-id=\"735\" tvg-logo=\"http://epg.cdntv.online/img/735.png\" group-title=\"Взрослые\", Fetish HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/735.m3u8
-#EXTINF:0 tvg-id=\"736\" tvg-logo=\"http://epg.cdntv.online/img/736.png\" group-title=\"Взрослые\", Interracial HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/736.m3u8
-#EXTINF:0 tvg-id=\"737\" tvg-logo=\"http://epg.cdntv.online/img/737.png\" group-title=\"Взрослые\", Latina HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/737.m3u8
-#EXTINF:0 tvg-id=\"738\" tvg-logo=\"http://epg.cdntv.online/img/738.png\" group-title=\"Взрослые\", Milf HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/738.m3u8
-#EXTINF:0 tvg-id=\"739\" tvg-logo=\"http://epg.cdntv.online/img/739.png\" group-title=\"Взрослые\", POV HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/739.m3u8
-#EXTINF:0 tvg-id=\"740\" tvg-logo=\"http://epg.cdntv.online/img/740.png\" group-title=\"Взрослые\", Pornstar HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/740.m3u8
-#EXTINF:0 tvg-id=\"741\" tvg-logo=\"http://epg.cdntv.online/img/741.png\" group-title=\"Взрослые\", Russian HD
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/741.m3u8
-#EXTINF:0 tvg-id=\"742\" tvg-logo=\"http://epg.cdntv.online/img/742.png\" group-title=\"Взрослые\", Visit-X TV
-#EXTGRP:Взрослые
-https://cdntv.online/high/vcbkpd63uh/742.m3u8
-#EXTINF:0 tvg-id=\"1116\" tvg-logo=\"http://epg.cdntv.online/img/1116.png\" group-title=\"Взрослые\", Hustler HD
-#EXTGRP:Взрослые
+#EXTINF:0 , Hustler HD
 https://cdntv.online/high/vcbkpd63uh/1116.m3u8
-#EXTINF:0 tvg-id=\"1119\" tvg-logo=\"http://epg.cdntv.online/img/1119.png\" group-title=\"Взрослые\", Redlight HD
-#EXTGRP:Взрослые
+#EXTINF:0 , Redlight HD
 https://cdntv.online/high/vcbkpd63uh/1119.m3u8
-#EXTINF:0 tvg-id=\"1122\" tvg-logo=\"http://epg.cdntv.online/img/1122.png\" group-title=\"Взрослые\", Vivid Red HD
-#EXTGRP:Взрослые
+#EXTINF:0 , Vivid Red HD
 https://cdntv.online/high/vcbkpd63uh/1122.m3u8
-#EXTINF:0 tvg-id=\"1124\" tvg-logo=\"http://epg.cdntv.online/img/1124.png\" group-title=\"Взрослые\", Penthouse Gold HD
-#EXTGRP:Взрослые
+#EXTINF:0 , Penthouse Gold HD
 https://cdntv.online/high/vcbkpd63uh/1124.m3u8
-#EXTINF:0 tvg-id=\"1125\" tvg-logo=\"http://epg.cdntv.online/img/1125.png\" group-title=\"Взрослые\", Barely Legal TV
-#EXTGRP:Взрослые
+#EXTINF:0 , Barely Legal TV
 https://cdntv.online/high/vcbkpd63uh/1125.m3u8
-#EXTINF:0 tvg-id=\"1126\" tvg-logo=\"http://epg.cdntv.online/img/1126.png\" group-title=\"Взрослые\", Loves Berry HD (18+)
-#EXTGRP:Взрослые
+#EXTINF:0 , , Loves Berry HD (18+)
 https://cdntv.online/high/vcbkpd63uh/1126.m3u8
-#EXTINF:0 tvg-id=\"1127\" tvg-logo=\"http://epg.cdntv.online/img/1127.png\" group-title=\"Взрослые\", FAP TV 2 HD
-#EXTGRP:Взрослые
+#EXTINF:0 , FAP TV 2 HD
 https://cdntv.online/high/vcbkpd63uh/1127.m3u8
-#EXTINF:0 tvg-id=\"1128\" tvg-logo=\"http://epg.cdntv.online/img/1128.png\" group-title=\"Взрослые\", Club Sweetie Fox
-#EXTGRP:Взрослые
+#EXTINF:0 , Club Sweetie Fox
 https://cdntv.online/high/vcbkpd63uh/1128.m3u8
-#EXTINF:0 tvg-id=\"1129\" tvg-logo=\"http://epg.cdntv.online/img/1129.png\" group-title=\"Взрослые\", FAP TV 4 HD
-#EXTGRP:Взрослые
+#EXTINF:0 , FAP TV 4 HD
 https://cdntv.online/high/vcbkpd63uh/1129.m3u8
-#EXTINF:0 tvg-id=\"1130\" tvg-logo=\"http://epg.cdntv.online/img/1130.png\" group-title=\"Взрослые\", Club Parody
-#EXTGRP:Взрослые
+#EXTINF:0 , Club Parody
 https://cdntv.online/high/vcbkpd63uh/1130.m3u8
-#EXTINF:0 tvg-id=\"1131\" tvg-logo=\"http://epg.cdntv.online/img/1131.png\" group-title=\"Взрослые\", Club Anal
-#EXTGRP:Взрослые
+#EXTINF:0 ,  Club Anal
 https://cdntv.online/high/vcbkpd63uh/1131.m3u8
-#EXTINF:0 tvg-id=\"1132\" tvg-logo=\"http://epg.cdntv.online/img/1132.png\" group-title=\"Взрослые\", Club Teens HD
-#EXTGRP:Взрослые
+#EXTINF:0 , Club Teens HD
 https://cdntv.online/high/vcbkpd63uh/1132.m3u8
-#EXTINF:0 tvg-id=\"1133\" tvg-logo=\"http://epg.cdntv.online/img/1133.png\" group-title=\"Взрослые\", FAP TV Lesbian HD
-#EXTGRP:Взрослые
+#EXTINF:0 , FAP TV Lesbian HD
 https://cdntv.online/high/vcbkpd63uh/1133.m3u8
-#EXTINF:0 tvg-id=\"1134\" tvg-logo=\"http://epg.cdntv.online/img/1134.png\" group-title=\"Взрослые\", FAP TV Compilation HD
-#EXTGRP:Взрослые
+#EXTINF:0 , FAP TV Compilation HD
 https://cdntv.online/high/vcbkpd63uh/1134.m3u8
-#EXTINF:0 tvg-id=\"1135\" tvg-logo=\"http://epg.cdntv.online/img/1135.png\" group-title=\"Взрослые\", Club BBW
-#EXTGRP:Взрослые
+#EXTINF:0 , Club BBW
 https://cdntv.online/high/vcbkpd63uh/1135.m3u8
-#EXTINF:0 tvg-id=\"1269\" tvg-logo=\"http://epg.cdntv.online/img/1269.png\" group-title=\"Взрослые\", Z!Adult TV (18+)
-#EXTGRP:Взрослые
+#EXTINF:0 ,  Z!Adult TV (18+)
 https://cdntv.online/high/vcbkpd63uh/1269.m3u8
-#EXTINF:0 tvg-id=\"1424\" tvg-logo=\"http://epg.cdntv.online/img/1424.png\" group-title=\"Взрослые\", xxx
-#EXTGRP:Взрослые
+#EXTINF:0 , xxx
 https://cdntv.online/high/vcbkpd63uh/1424.m3u8
-#EXTINF:0 tvg-id=\"1425\" tvg-logo=\"http://epg.cdntv.online/img/1425.png\" group-title=\"Взрослые\", xxx2
-#EXTGRP:Взрослые
+#EXTINF:0 , xxx2
 https://cdntv.online/high/vcbkpd63uh/1425.m3u8
-#EXTINF:0 tvg-id=\"1684\" tvg-logo=\"http://epg.cdntv.online/img/1684.png\" group-title=\"Взрослые\", EroLuxe 60FPS
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe 60FPS
 https://cdntv.online/high/vcbkpd63uh/1684.m3u8
-#EXTINF:0 tvg-id=\"1685\" tvg-logo=\"http://epg.cdntv.online/img/1685.png\" group-title=\"Взрослые\", EroLuxe Anal
-#EXTGRP:Взрослые
+#EXTINF:0 ,  EroLuxe Anal
 https://cdntv.online/high/vcbkpd63uh/1685.m3u8
-#EXTINF:0 tvg-id=\"1686\" tvg-logo=\"http://epg.cdntv.online/img/1686.png\" group-title=\"Взрослые\", EroLuxe Blondes
-#EXTGRP:Взрослые
+#EXTINF:0 ,  EroLuxe Blondes
 https://cdntv.online/high/vcbkpd63uh/1686.m3u8
-#EXTINF:0 tvg-id=\"1687\" tvg-logo=\"http://epg.cdntv.online/img/1687.png\" group-title=\"Взрослые\", EroLuxe Blowjob
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Blowjob
 https://cdntv.online/high/vcbkpd63uh/1687.m3u8
-#EXTINF:0 tvg-id=\"1688\" tvg-logo=\"http://epg.cdntv.online/img/1688.png\" group-title=\"Взрослые\", EroLuxe Cinema
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Cinema
 https://cdntv.online/high/vcbkpd63uh/1688.m3u8
-#EXTINF:0 tvg-id=\"1689\" tvg-logo=\"http://epg.cdntv.online/img/1689.png\" group-title=\"Взрослые\", EroLuxe Cosplay
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Cosplay
 https://cdntv.online/high/vcbkpd63uh/1689.m3u8
-#EXTINF:0 tvg-id=\"1690\" tvg-logo=\"http://epg.cdntv.online/img/1690.png\" group-title=\"Взрослые\", EroLuxe Ebony
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Ebony
 https://cdntv.online/high/vcbkpd63uh/1690.m3u8
-#EXTINF:0 tvg-id=\"1691\" tvg-logo=\"http://epg.cdntv.online/img/1691.png\" group-title=\"Взрослые\", EroLuxe Gays
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Gays
 https://cdntv.online/high/vcbkpd63uh/1691.m3u8
-#EXTINF:0 tvg-id=\"1692\" tvg-logo=\"http://epg.cdntv.online/img/1692.png\" group-title=\"Взрослые\", EroLuxe Gloryhole
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Gloryhole
 https://cdntv.online/high/vcbkpd63uh/1692.m3u8
-#EXTINF:0 tvg-id=\"1693\" tvg-logo=\"http://epg.cdntv.online/img/1693.png\" group-title=\"Взрослые\", EroLuxe Henati
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Henati
 https://cdntv.online/high/vcbkpd63uh/1693.m3u8
-#EXTINF:0 tvg-id=\"1694\" tvg-logo=\"http://epg.cdntv.online/img/1694.png\" group-title=\"Взрослые\", EroLuxe Japanese
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Japanese
 https://cdntv.online/high/vcbkpd63uh/1694.m3u8
-#EXTINF:0 tvg-id=\"1695\" tvg-logo=\"http://epg.cdntv.online/img/1695.png\" group-title=\"Взрослые\", EroLuxe Lesbians
-#EXTGRP:Взрослые
+#EXTINF:0 ,  EroLuxe Lesbians
 https://cdntv.online/high/vcbkpd63uh/1695.m3u8
-#EXTINF:0 tvg-id=\"1696\" tvg-logo=\"http://epg.cdntv.online/img/1696.png\" group-title=\"Взрослые\", EroLuxe Massage
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Massage
 https://cdntv.online/high/vcbkpd63uh/1696.m3u8
-#EXTINF:0 tvg-id=\"1697\" tvg-logo=\"http://epg.cdntv.online/img/1697.png\" group-title=\"Взрослые\", EroLuxe Milf
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Milf
 https://cdntv.online/high/vcbkpd63uh/1697.m3u8
-#EXTINF:0 tvg-id=\"1698\" tvg-logo=\"http://epg.cdntv.online/img/1698.png\" group-title=\"Взрослые\", EroLuxe Russian Teens
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Russian Teens
 https://cdntv.online/high/vcbkpd63uh/1698.m3u8
-#EXTINF:0 tvg-id=\"1699\" tvg-logo=\"http://epg.cdntv.online/img/1699.png\" group-title=\"Взрослые\", EroLuxe Orgy
-#EXTGRP:Взрослые
+#EXTINF:0 ,EroLuxe Orgy
 https://cdntv.online/high/vcbkpd63uh/1699.m3u8
-#EXTINF:0 tvg-id=\"1700\" tvg-logo=\"http://epg.cdntv.online/img/1700.png\" group-title=\"Взрослые\", EroLuxe Pregnant
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Pregnant
 https://cdntv.online/high/vcbkpd63uh/1700.m3u8
-#EXTINF:0 tvg-id=\"1701\" tvg-logo=\"http://epg.cdntv.online/img/1701.png\" group-title=\"Взрослые\", EroLuxe Shemales
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Shemales
 https://cdntv.online/high/vcbkpd63uh/1701.m3u8
-#EXTINF:0 tvg-id=\"1702\" tvg-logo=\"http://epg.cdntv.online/img/1702.png\" group-title=\"Взрослые\", EroLuxe Solo
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Solo
 https://cdntv.online/high/vcbkpd63uh/1702.m3u8
-#EXTINF:0 tvg-id=\"1703\" tvg-logo=\"http://epg.cdntv.online/img/1703.png\" group-title=\"Взрослые\", EroLuxe Step Family
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Step Family
 https://cdntv.online/high/vcbkpd63uh/1703.m3u8
-#EXTINF:0 tvg-id=\"1704\" tvg-logo=\"http://epg.cdntv.online/img/1704.png\" group-title=\"Взрослые\", EroLuxe 4K UHD
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe 4K UHD
 https://cdntv.online/high/vcbkpd63uh/1704.m3u8
-#EXTINF:0 tvg-id=\"1705\" tvg-logo=\"http://epg.cdntv.online/img/1705.png\" group-title=\"Взрослые\", EroLuxe VIP 4K 60FPS
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe VIP 4K 60FPS
 https://cdntv.online/high/vcbkpd63uh/1705.m3u8
-#EXTINF:0 tvg-id=\"1706\" tvg-logo=\"http://epg.cdntv.online/img/1706.png\" group-title=\"Взрослые\", EroLuxe BBW
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe BBW
 https://cdntv.online/high/vcbkpd63uh/1706.m3u8
-#EXTINF:0 tvg-id=\"1707\" tvg-logo=\"http://epg.cdntv.online/img/1707.png\" group-title=\"Взрослые\", EroLuxe BabySitter
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe BabySitter
 https://cdntv.online/high/vcbkpd63uh/1707.m3u8
-#EXTINF:0 tvg-id=\"1708\" tvg-logo=\"http://epg.cdntv.online/img/1708.png\" group-title=\"Взрослые\", EroLuxe BDSM
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe BDSM
 https://cdntv.online/high/vcbkpd63uh/1708.m3u8
-#EXTINF:0 tvg-id=\"1709\" tvg-logo=\"http://epg.cdntv.online/img/1709.png\" group-title=\"Взрослые\", EroLuxe Big Cock
-#EXTGRP:Взрослые
+#EXTINF:0 ,  EroLuxe Big Cock
 https://cdntv.online/high/vcbkpd63uh/1709.m3u8
-#EXTINF:0 tvg-id=\"1710\" tvg-logo=\"http://epg.cdntv.online/img/1710.png\" group-title=\"Взрослые\", EroLuxe Brunette
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Brunette
 https://cdntv.online/high/vcbkpd63uh/1710.m3u8
-#EXTINF:0 tvg-id=\"1711\" tvg-logo=\"http://epg.cdntv.online/img/1711.png\" group-title=\"Взрослые\", EroLuxe CheerLeader
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe CheerLeader
 https://cdntv.online/high/vcbkpd63uh/1711.m3u8
-#EXTINF:0 tvg-id=\"1712\" tvg-logo=\"http://epg.cdntv.online/img/1712.png\" group-title=\"Взрослые\", EroLuxe Cuckold
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Cuckold
 https://cdntv.online/high/vcbkpd63uh/1712.m3u8
-#EXTINF:0 tvg-id=\"1713\" tvg-logo=\"http://epg.cdntv.online/img/1713.png\" group-title=\"Взрослые\", EroLuxe Creampie
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Creampie
 https://cdntv.online/high/vcbkpd63uh/1713.m3u8
-#EXTINF:0 tvg-id=\"1714\" tvg-logo=\"http://epg.cdntv.online/img/1714.png\" group-title=\"Взрослые\", EroLuxe Fake Taxi
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Fake Taxi
 https://cdntv.online/high/vcbkpd63uh/1714.m3u8
-#EXTINF:0 tvg-id=\"1715\" tvg-logo=\"http://epg.cdntv.online/img/1715.png\" group-title=\"Взрослые\", EroLuxe Foot Fetish
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Foot Fetish
 https://cdntv.online/high/vcbkpd63uh/1715.m3u8
-#EXTINF:0 tvg-id=\"1716\" tvg-logo=\"http://epg.cdntv.online/img/1716.png\" group-title=\"Взрослые\", EroLuxe Fisting
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Fisting
 https://cdntv.online/high/vcbkpd63uh/1716.m3u8
-#EXTINF:0 tvg-id=\"1717\" tvg-logo=\"http://epg.cdntv.online/img/1717.png\" group-title=\"Взрослые\", EroLuxe GangBang
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe GangBang
 https://cdntv.online/high/vcbkpd63uh/1717.m3u8
-#EXTINF:0 tvg-id=\"1718\" tvg-logo=\"http://epg.cdntv.online/img/1718.png\" group-title=\"Взрослые\", EroLuxe Parody
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Parody
 https://cdntv.online/high/vcbkpd63uh/1718.m3u8
-#EXTINF:0 tvg-id=\"1719\" tvg-logo=\"http://epg.cdntv.online/img/1719.png\" group-title=\"Взрослые\", EroLuxe POV
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe POV
 https://cdntv.online/high/vcbkpd63uh/1719.m3u8
-#EXTINF:0 tvg-id=\"1720\" tvg-logo=\"http://epg.cdntv.online/img/1720.png\" group-title=\"Взрослые\", EroLuxe Public Agent
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Public Agent
 https://cdntv.online/high/vcbkpd63uh/1720.m3u8
-#EXTINF:0 tvg-id=\"1721\" tvg-logo=\"http://epg.cdntv.online/img/1721.png\" group-title=\"Взрослые\", EroLuxe RedHeads
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe RedHeads
 https://cdntv.online/high/vcbkpd63uh/1721.m3u8
-#EXTINF:0 tvg-id=\"1722\" tvg-logo=\"http://epg.cdntv.online/img/1722.png\" group-title=\"Взрослые\", EroLuxe Schoolgirl
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Schoolgirl
 https://cdntv.online/high/vcbkpd63uh/1722.m3u8
-#EXTINF:0 tvg-id=\"1723\" tvg-logo=\"http://epg.cdntv.online/img/1723.png\" group-title=\"Взрослые\", EroLuxe Asian
-#EXTGRP:Взрослые
+#EXTINF:0 , EroLuxe Asian
 https://cdntv.online/high/vcbkpd63uh/1723.m3u8
